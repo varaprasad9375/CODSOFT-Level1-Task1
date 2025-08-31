@@ -1,8 +1,8 @@
-Proposer:G.Shivanarayana Varaprasad.
-Company/Organization:CODSOFT
-Project ID:BY25RY210648
-Timeline: 4 Weeks
-Domain:Web Development
+*Proposer*:G.Shivanarayana Varaprasad.
+*Company/Organization*:CODSOFT
+*Project ID*:BY25RY210648
+*Timeline*: 4 Weeks
+*Domain*:Web Development
 
 #CODE
 
