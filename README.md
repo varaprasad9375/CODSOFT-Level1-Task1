@@ -6,9 +6,7 @@ Domain:Web Development
 
 #CODE
 
-hi..
-
-HTML...
+#HTML...
 
 <!DOCTYPE html>
 <html lang="en">
